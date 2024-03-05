@@ -1,2 +1,2 @@
 # DeepLearningSchool_NLP
-Homeworks and seminars from DLS CV course(without data)
+Homeworks and seminars from DLS NLP course(without data)
